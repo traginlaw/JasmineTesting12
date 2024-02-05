@@ -58,3 +58,5 @@ function updateMonthly(monthly) {
 	monthlyAmount.innerText = '$' + monthly;
 	monthlyAmount.appendChild(monthly);
 }
+
+//comment for commit

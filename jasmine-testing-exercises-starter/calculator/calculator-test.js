@@ -15,3 +15,5 @@ it('should return a result with 2 decimal places', function () {
 	};
 	expect(calculateMonthlyPayment(values)).toEqual('94.27');
 });
+
+// comment for commit
